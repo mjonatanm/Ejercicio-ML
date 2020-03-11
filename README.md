@@ -5,6 +5,7 @@ Propietario: Jonatan Morales
 Url Api Rest: http://apirestml-dev.us-west-2.elasticbeanstalk.com/api/mutante/mutant
 Metodo: POST
 Herramienta sugerida: Postman.
+Lenguaje Utilizado: C# .Net
 
 Respuestas de la API:
 	- Status 200 OK. El ADN es mutante.
